@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Communication Engineering, Harbin Institute of Technology, 2005-2009
+* M.S. in Information and Communication Engineering, Harbin Institute of Technology, 2009-2011
+* Ph.D in Mathematics and Computer Science, Freie Universität Berlin, 2011-2015
 
 Work experience
 ======
@@ -22,10 +22,9 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2016: Assistant Professor
+  * Center for Applied Mathematics
+  * Tianjin University
   
 Skills
 ======
