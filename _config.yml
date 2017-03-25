@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Huaming Wu / Site Title"
+title                    : "Huaming Wu / 吴华明"
 title_separator          : "-"
 name                     : &name "Huaming Wu"
 description              : &description "Assistant Professor, Tianjin University"
@@ -77,7 +77,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "吴华明"
+  name             : "Huaming Wu"
   avatar           : "DSC_1580.jpg"
   bio              : "Assistant Professor, Tianjin University"
   location         : "Tianjin, China"
@@ -89,7 +89,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : 
+  facebook         : "https://www.facebook.com/whm1986"
   foursquare       :
   github           : "wuhuaming2006"
   google_plus      :
@@ -103,7 +103,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
