@@ -22,9 +22,6 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* 2016: Assistant Professor
-  * Center for Applied Mathematics
-  * Tianjin University
   
 Skills
 ======
