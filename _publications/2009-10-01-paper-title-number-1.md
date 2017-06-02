@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Stochastic Analysis of Delayed Mobile Offloading in Heterogeneous Networks"
 collection: publications
 permalink: /publications/2009-10-01-paper-title-number-1
-venue: "Journal 1"
+venue: "IEEE Transactions on Mobile Computing"
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+date: 2017-10-01
 paperurl: http://academicpages.github.io/files/paper1.pdf
-citation: 'Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).'
+citation: 'Huaming, Wu,Katinka, Wolter. (2009). "Stochastic Analysis of Delayed Mobile Offloading in Heterogeneous Networks." <i>IEEE Transactions on Mobile Computing</i>. 1(1).'
 ---
 
 ## Abstract
