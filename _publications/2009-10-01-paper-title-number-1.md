@@ -18,3 +18,14 @@
 [12]	Zhang, M., Xu, Y., and Wu, H. Orientation Truncated Center Learning for Deep Face Recognition, IET Electronics Letters, Vol. 54, No. 19 ,1110–1112, 2018. IF: 1.232.
 [13]	Wu, H., Sun, Y., & Wolter, K. (2015). Analysis of the Energy-Response Time Tradeoff for Delayed Mobile Cloud Offloading. ACM SIGMETRICS Performance Evaluation Review, 43(2), 33-35.
 [14]	Zhang, M., Shang, K., and Wu, H. Deep Compact Discriminative Representation for Unconstrained Face Recognition, Signal Processing: Image Communication, in revision. IF: 2.073.
+
+
+---
+title: "Paper Title Number 3"
+collection: publications
+permalink: /publications/2015-10-01-paper-title-number-3
+venue: "Journal 1"
+date: 2015-10-01
+paperurl: http://academicpages.github.io/files/paper3.pdf
+citation: 'Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).'
+---
