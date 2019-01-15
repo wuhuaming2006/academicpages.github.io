@@ -1,5 +1,6 @@
 ---
 Wu, H., Sun, Y., & Wolter, K. Energy-Efficient Decision Making for Mobile Cloud Offloading. IEEE Transactions on Cloud Computing, in press, 2018. IF: 7.928.
+Wu, H., & Wolter, K. (2018). Stochastic Analysis of Delayed Mobile Offloading in Heterogeneous Networks. IEEE Transactions on Mobile Computing, vol. 17, no. 2, pp. 461-474. IF: 4.098.
 ---
 [1]	Wu, H., Sun, Y., & Wolter, K. Energy-Efficient Decision Making for Mobile Cloud Offloading. IEEE Transactions on Cloud Computing, in press, 2018. IF: 7.928.
 
