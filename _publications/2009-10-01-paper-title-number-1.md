@@ -5,7 +5,7 @@ permalink: /publications/2009-10-01-paper-title-number-1
 venue: "IEEE Transactions on Mobile Computing"
 date: 2017-10-01
 paperurl: http://academicpages.github.io/files/paper1.pdf
-'Huaming, Wu,Katinka, Wolter. (2017). "Stochastic Analysis of Delayed Mobile Offloading in Heterogeneous Networks." <i>IEEE Transactions on Mobile Computing</i>. 1(1).'
+citation: 'Huaming, Wu,Katinka, Wolter. (2017). "Stochastic Analysis of Delayed Mobile Offloading in Heterogeneous Networks." <i>IEEE Transactions on Mobile Computing</i>. 1(1).'
 ---
 
 ## Abstract
