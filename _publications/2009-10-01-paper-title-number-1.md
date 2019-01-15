@@ -5,8 +5,11 @@
 [3]	Wu, H., Knottenbelt, W. J. & Wolter, K. An Efficient Application Partitioning Algorithm in Mobile Environments. IEEE Transactions on Parallel and Distributed Systems, in press. IF: 3.971.
 
 [4]	Wu, H., Knottenbelt, W. J. & Wolter, K. Energy-Performance Tradeoffs for Mobile Cloud Offloading in Heterogeneous Networks. IEEE Transactions on Mobile Computing, in revision. IF: 4.098.
+
 [5]	Wu, H. Multi-Objective Decision-Making for Mobile Cloud Offloading: A Survey. IEEE Access, vol. 6, pp. 3962-3976, 2018. IF: 3.554.
+
 [6]	Wu, H. Performance Modeling of Delayed Offloading in Mobile Wireless Environments with Failures, IEEE Communications Letters, 2018. IF: 2.723.
+
 [7]	Liu, C., and Wu, H.(#) Channel Pruning Based on Mean Gradient for Accelerating Convolutional Neural Networks, Signal Processing, vol.156, 84-91, 2019. IF: 3.470.
 [8]	Zhang, M., Shang, K., and Wu, H. Learning Deep Discriminative Face Features by Customized Weighted Constraint, Neurocomputing. accepted. IF: 3.241.
 [9]	Wu, B., Chen Z., Wang, J, Wu, H. Exponential Discriminative Metric Embedding in Deep Learning, Neurocomputing, vol. 290, pp. 108-120, 2018. IF: 3.241.
