@@ -22,8 +22,3 @@ Wu, H., & Wolter, K. (2018). Stochastic Analysis of Delayed Mobile Offloading in
 [12]	Zhang, M., Xu, Y., and Wu, H. Orientation Truncated Center Learning for Deep Face Recognition, IET Electronics Letters, Vol. 54, No. 19 ,1110–1112, 2018. IF: 1.232.
 [13]	Wu, H., Sun, Y., & Wolter, K. (2015). Analysis of the Energy-Response Time Tradeoff for Delayed Mobile Cloud Offloading. ACM SIGMETRICS Performance Evaluation Review, 43(2), 33-35.
 [14]	Zhang, M., Shang, K., and Wu, H. Deep Compact Discriminative Representation for Unconstrained Face Recognition, Signal Processing: Image Communication, in revision. IF: 2.073.
-
-
----
-Wu, H., Sun, Y., & Wolter, K. Energy-Efficient Decision Making for Mobile Cloud Offloading. IEEE Transactions on Cloud Computing, in press, 2018. IF: 7.928.
----
